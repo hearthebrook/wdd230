@@ -13,7 +13,7 @@ header {
     font-style: normal;
     font-size: 2vw;
     padding: 1em;
-    background-color: #949494;
+    background-color: #545252;
     margin-top: 1em;
 }
 
@@ -30,11 +30,11 @@ img {
 h1 {
     padding: 0.5em;
     text-align: center;
-    color: #ECCD6F;
+    color: white;
 }
 
 nav {
-    background-color: #c0c0c0;
+    background-color: #dad4d4;
 }
 
 nav ul {
@@ -49,10 +49,13 @@ nav li {
     font-size: 1.8vw;
 }
 
-nav ul li a {
+nav a {
+    padding: 1em;
+    min-width: 120px;
     text-decoration: none;
-    color:white;
-}
+    padding: 10px;
+    color:rgb(62, 62, 62);
+    }
 
 a:hover {
     color: #D88268;
@@ -72,8 +75,8 @@ h2 {
 }
 
 main section h3 {
-    background-color: #949494;
-    color: #ECCD6F;
+    background-color: #757474;
+    color: white;
     margin: 0;
 }
 
@@ -95,7 +98,7 @@ section li {
 }
 
 footer {
-    background-color: #c0c0c0;
+    background-color: #dad4d4;
     text-align: center;
 
 }
